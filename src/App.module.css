@@ -1,0 +1,17 @@
+.container {
+  width: 500px;
+  height: 500px;
+  border-style: solid;
+  background: #333;
+}
+
+.subtitle {
+  position: absolute;
+  margin-top: -505px;
+  margin-left: 10px;
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  word-wrap: break-word;
+  width: 490px;
+}
